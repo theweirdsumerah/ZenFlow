@@ -108,7 +108,7 @@ See the [LICENSE](./LICENSE) file for more details.
 
 ZenFlow was inspired by the user-centric experiences of platforms like:
 
-- [Studyverse](https://studyverse.life/)
+- [Studyverse](https://studyverse.life/) (R.I.P.)
 - [LifeAt](https://lifeat.io/)
 - [PomoFocus](https://pomofocus.io/)
 
