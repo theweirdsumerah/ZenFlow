@@ -16,6 +16,22 @@ ZenFlow was created to empower students, freelancers, and remote workers with a 
 - 🎞️ **Animated Backgrounds** – Customize your workspace with looping GIF themes.
 
 ---
+## 🧱 Tech Stack
+
+ZenFlow is a Python-based desktop application developed with simplicity, aesthetics, and offline functionality in mind. The stack is lightweight, cross-platform friendly, and designed for ease of use.
+
+### 🎨 Front-End
+- **CustomTkinter** – For modern, responsive UI components
+- **Tkinter** – Core Python GUI library for layout and window management
+- **Pillow (PIL)** – For rendering and looping animated background GIFs
+- **Custom GIF Assets** – Looping ambient backgrounds to enhance user focus
+
+### 🧠 Back-End
+- **Python 3.11** – Core logic, application control, and module integration
+- **SQLite3** – Lightweight local database for storing tasks and heatmap logs
+- **Pygame** – For playing audio alerts in the Pomodoro Timer
+- **Built-in Algorithms** – Logic for timer cycles, task tracking, and data visualization
+---
 
 ## 🛠 Built With
 
@@ -57,6 +73,9 @@ ZenFlow was created to empower students, freelancers, and remote workers with a 
    ```bash
    git clone https://github.com/theweirdsumerah/zenflow.git
    cd zenflow
+   pip install -r requirements.txt
+   python main.py
+
 
 ## 🖥️ System Requirements
 
