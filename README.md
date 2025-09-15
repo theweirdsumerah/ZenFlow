@@ -117,7 +117,7 @@ ZenFlow was inspired by the user-centric experiences of platforms like:
 ## 👥 Team Members
 
 - [Sumerah Tasmiah Khan](https://github.com/theweirdsumerah)  
-- [Alvin Rahman Wafi](https://github.com/wafi-brownboi) 
+- [Alvin Rahman Wafi](https://github.com/alvinwafi) 
 - [Raisa Islam](https://github.com/teammember2)
 
 We built ZenFlow with love and focus, and hope it helps others do the same.
